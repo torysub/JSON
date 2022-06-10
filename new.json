@@ -1,6 +1,15 @@
 {
-	"name": "Subbotina Viktoriya",
-	"age" : 31,
-	"pets" : 0,
-	"salary" : "1000$"
+	"person":{
+		"first_name":"Viktoriya",
+		"middle_name":"Alexandrovna",
+		"last_name":"Subbotina",
+		"age":31,
+		"pets":{
+			"cat":1,
+			"dog":1
+		},
+		"salary":"1000$"
+	}
+
 }
+		
