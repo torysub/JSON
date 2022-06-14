@@ -1,0 +1,12 @@
+{
+	"favorite_movie": "Interstellar",
+        "favorite_TV_series": "Friends",
+        "favorite_food": [
+                "pasta",
+                "potato mash",
+                "shish kebab",
+                "salad"
+        ],
+        "favorite_time_year": "summer",
+        "country": "Australia"
+}

@@ -1,0 +1,53 @@
+{
+	"skills":{
+		"basic testing theory":[
+			"testing",
+			"bug reports",
+			"documentation",
+			"SDLC",
+			"STLC"
+		],
+		"HTTP":[
+			"client-server architecture",
+			"HTTP methods of requests to the server",
+			"HTTP server response codes",
+			"HTTP request and Response structures"
+		],
+		"data exchange format":[
+			"JSON",
+			"XML"
+		],
+		"database":[
+			"SQL",
+			"Redis",
+			"Postgres"
+		],
+		"API":[
+			"Postman",
+			"JS",
+			"API autotests"
+		],
+		"sniffing":[
+			"Charles",
+			"Fidler"
+		],
+		"DevTools":[
+			"Google Chrome",
+			"FireFox"
+		],
+		"mobile testing":[
+			"iOS",
+			"Android"
+		],
+		"building applications":[
+			"Android Studio",
+			"XCode"
+		],
+		"working in the terminal":[
+			"GitBush",
+			"GitHub"
+		],
+		"load testing": "Jmeter",
+		"methodology": "SCRUM"
+	}
+}
