@@ -2,6 +2,8 @@
   "Bug-ID": "1",
   "Title": "Поле ввода 'Введите номер телефона' не позволяет ввести цифры после нажатия на кнопу 'Войти по номеру телефона'",
   "Project": "Сайт магазина 'Malina'",
+  "Severity": "Major",
+  "Priority": "Medium",
   "STR": [
     "1. Открыть страницу входа",
     "2. Нажать на кнопку 'Войти по номеру телефона'",
@@ -12,11 +14,7 @@
   "Environment":{
     "OS": "Windows 10 PRO 64-bit operating system, x64 processor",
     "Browser": "Google Chrome Version 102.0.5005.63 (Official build), (64 bit)"
-  },
-  "Severity": "Major",
-  "Priority": "Medium",
-  "Status": "New",
-  "Author": "Виктория Субботина"
+  }
 }
     
   
