@@ -66,7 +66,11 @@
  
  8. Отправить изменения на внешний репозиторий. 
  
- `git commit -am "New information added`
+ ```
+ git commit -am "New information added
+ 
+ git push
+ ```
  
  9. Создать файл preferences.json 
  
@@ -157,7 +161,7 @@
  
  12. Отправить сразу 2 файла на внешний репозиторий. 
  
- `git add . && git commit -m "Added preferences.json and skills.json files`
+ `git add . && git commit -m "Added preferences.json and skills.json files` && git push
  
  13. На веб интерфейсе создать файл bug_report.json. 
  
